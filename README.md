@@ -8,9 +8,7 @@
 
 협업 스택 : Git, Git Organization, Notion, Swagger UI, Figma, Slack, Google Meet
 
-**GitHub** : [https://github.com/BringChuChuBa/BringChuChuba-iOS](https://github.com/BringChuChuBa/BringChuChuba-iOS)
-
-**고려사항**
+# 고려사항
 
 1. `RxSwift`를 이용한 `MVVM-C` 패턴
 2. `GitFlow`를 기반으로 한 브랜치 전략
@@ -24,6 +22,17 @@
     - `딥링크`로 가족 초대
 7. 코드 리뷰
 8. `Localizable` 을 통한 현지화 대응
+
+# Contributors
+
+- [hansangjin96](https://github.com/hansangjin96)
+- [betterhee](https://github.com/betterhee)
+
+# License
+
+MIT
+
+# ScreenShots
 
 ![image](https://user-images.githubusercontent.com/57659933/111854779-748c0380-8964-11eb-9c8e-09d97b8dc767.png) ![image](https://user-images.githubusercontent.com/57659933/111854794-88376a00-8964-11eb-9c58-6021fe78b70f.png)
 
